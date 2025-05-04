@@ -1,0 +1,51 @@
+{
+  "NotSoDefect:StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When attacked, trigger all #yLightning 's passive ability; If the damage is unblocked, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "NotSoDefect:Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " Common cards with Ethereal into your hand."
+    ]
+  },
+  "NotSoDefect:NoBlock": {
+    "NAME": "No Block",
+    "DESCRIPTIONS": [
+      "Can not gain Block."
+    ]
+  },
+  "NotSoDefect:MachineLearning": {
+  "NAME": "Machine Learning",
+  "DESCRIPTIONS": [
+    "At the start of your turn, draw an extra card, and randomly #yUpgrade #b",
+    " cards in your hand during this combat."
+    ]
+  },
+  "NotSoDefect:SelfRepair": {
+    "NAME": "Self Repair",
+    "DESCRIPTIONS": [
+      "At the start or the end of your turn, randomly #yExhaust #b",
+      " Status or Curses in your hands, and at the start, draw a card for each exhausted one."
+    ]
+  },
+  "NotSoDefect:Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "#When a #yLightning Orb is #yEvoked, draw a card and gain #b",
+      " Block."
+    ]
+  },
+  "NotSoDefect:CreativeAI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, you can #yExhaust #b",
+      " cards, and gain a Power card that costs 1 less for each card #yExhausted."
+    ]
+  }
+
+}

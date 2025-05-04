@@ -1,0 +1,148 @@
+{
+  "NotSoDefect:Dualcast": {
+    "NAME": "Dualcast",
+    "DESCRIPTION": " Evoke your next Orb twice.",
+    "UPGRADE_DESCRIPTION": " Retain. NL Evoke your next Orb twice."
+  },
+  "NotSoDefect:GoForTheEyes": {
+    "NAME": "Go for the Eyes",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, apply !M! Weak.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, apply !M! Weak and draw a card."
+  },
+  "NotSoDefect:DoubleEnergy": {
+    "NAME": "Double Energy",
+    "DESCRIPTION": "Double your Energy. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": " Retain . NL Double your Energy. NL Exhaust."
+  },
+  "NotSoDefect:Redo": {
+    "NAME": "Recursion",
+    "DESCRIPTION": " Evoke your next Orb. NL Channel the Orb that was just Evoked. NL Draw a card."
+  },
+  "NotSoDefect:BootSequence": {
+    "NAME": "Boot Sequence",
+    "DESCRIPTION": "Innate. NL Gain !B! Block. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain !B! Block. NL Draw a card. NL Exhaust."
+  },
+  "NotSoDefect:Recycle": {
+    "NAME": "Recycle",
+    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost.",
+    "UPGRADE_DESCRIPTION": " Retain . NL Exhaust a card. NL Gain [B] equal to its cost."
+  },
+  "NotSoDefect:Fusion": {
+    "NAME": "Fusion",
+    "DESCRIPTION": "Channel !M! Plasma. NL Draw 2 cards.",
+    "UPGRADE_DESCRIPTION": "Channel !M! Plasma. NL Draw a card."
+  },
+  "NotSoDefect:GeneticAlgorithm": {
+    "NAME": "Genetic Algorithm",
+    "DESCRIPTION": "Gain !B! Block. Permanently increase this card's Block by !M!. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": " Retain. NL Gain !B! Block. Permanently increase this card's Block by !M!. NL Exhaust."
+  },
+  "NotSoDefect:Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTION": " Retain . NL This turn, your next Power card is played twice."
+  },
+  "NotSoDefect:StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTION": "When attacked, trigger all Lightning's passive ability; If the damage is unblocked, Channel !M! Lightning ."
+  },
+  "NotSoDefect:EchoForm": {
+    "NAME": "Echo Form",
+    "DESCRIPTION": "Ethereal. NL The first card you play each turn is played twice.",
+    "UPGRADE_DESCRIPTION": "Retain. NL The first card you play each turn is played twice."
+  },
+  "NotSoDefect:CoreSurge": {
+    "NAME": "Core Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Clear debuffs. NL Exhaust."
+  },
+  "NotSoDefect:Reprogram": {
+    "NAME": "Reprogram",
+    "DESCRIPTION": "Transform Focus to equal positive Strength and Dexterity , NL or gain !M! Focus . NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Transform Focus to equal positive Strength and Dexterity , NL or gain !M! Focus . NL Retain."
+  },
+  "NotSoDefect:Melter": {
+    "NAME": "Melter",
+    "DESCRIPTION": "Enemy lose Artifact and can not gain Block. NL Deal !D! damage. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": "Enemy can not gain Block. NL Deal !D! damage. NL Exhaust ."
+  },
+  "NotSoDefect:HelloWorld": {
+    "NAME": "Hello World",
+    "DESCRIPTION": "At the start of your turn, add a upgraded Common card with Ethereal into your hand.",
+    "UPGRADE_DESCRIPTION": " Innate . NL At the start of your turn, add a upgraded Common card with Ethereal into your hand."
+  },
+  "NotSoDefect:Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard non-Attack cards drawn that do not cost 0, and make them cost 0 until played.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard non-Attack cards drawn that do not cost 0, and make them cost 0 until played."
+  },
+  "NotSoDefect:ForceField": {
+    "NAME": "ForceField",
+    "DESCRIPTION": "Gain 1 Blur. NL Gain !B! Block. NL Costs 1 less for each Power card played this combat.",
+    "UPGRADE_DESCRIPTION": "Gain 1 Blur. NL Gain !B! Block. NL Costs 1 less for each Power card played this combat."
+  },
+  "NotSoDefect:Tempest": {
+    "NAME": "Tempest",
+    "DESCRIPTION": " Channel 2X Lightning . NL Exhaust .",
+    "UPGRADE_DESCRIPTION": "Channel 2X Lightning."
+  },
+  "NotSoDefect:RipAndTear": {
+    "NAME": "Rip and Tear",
+    "DESCRIPTION": "Deal !D! damage to a random enemy for !M! times. NL Can be Upgraded any number of times."
+  },
+  "NotSoDefect:LockOn": {
+    "NAME": "Lock On",
+    "DESCRIPTION": " Retain . NL Deal !D! damage。 NL Apply !M! Lock-On .",
+    "UPGRADE_DESCRIPTION": " Retain . NL Deal !D! damage。 NL Apply !M! Lock-On ."
+  },
+  "NotSoDefect:AutoShields": {
+    "NAME": "Auto Shields",
+    "DESCRIPTION": " Ethereal . NL  When drawn, gain 11 Block.",
+    "UPGRADE_DESCRIPTION": " Ethereal . NL  When drawn, gain 11 Block. NL Draw a card."
+  },
+  "NotSoDefect:MachineLearning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTION": "At the start of your turn, draw an extra card, and randomly upgrade !M! cards in your hand during this combat.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, draw an extra card, and randomly upgrade !M! cards in your hand during this combat."
+  },
+  "NotSoDefect:SelfRepair": {
+    "NAME": "Self Repair",
+    "DESCRIPTION": "Gain !M! Regen . NL At the start of your turn, randomly exhaust 1 Status or Curse, and at the start, draw a card for each exhausted one.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Regen . NL At the start of your turn, randomly exhaust 1 Status or Curse, and at the start, draw a card for each exhausted one."
+  },
+  "NotSoDefect:FTL": {
+    "NAME": "FTL",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards, and make them cost 0 until played. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw !M! cards, and make them cost 0 until played. NL Exhaust ."
+  },
+  "NotSoDefect:Storm": {
+    "NAME": "Storm",
+    "DESCRIPTION": "When a Lightning Orb is #yEvoked, draw a card and gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "When a Lightning Orb is #yEvoked, draw a card and gain !M! Block."
+  },
+  "NotSoDefect:CreativeAI": {
+    "NAME": "Creative AI",
+    "DESCRIPTION": "At the start of your turn, you can Exhaust !M! cards, and gain a Power card that costs 1 less for each card Exhausted.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, you can Exhaust !M! cards, and gain a Power card that costs 1 less for each card Exhausted."
+  },
+  "NotSoDefect:MultiCast": {
+    "NAME": "Multi-Cast",
+    "DESCRIPTION": "Evoke your next Orb X times. NL Gain X-2 [B] .",
+    "UPGRADE_DESCRIPTION": "Evoke your next Orb X times. NL Gain X-1 [B] ."
+  },
+  "NotSoDefect:Rainbow": {
+    "NAME": "Rainbow",
+    "DESCRIPTION": " Channel 1 Lightning. NL Channel 1 Frost. NL Channel 1 Dark. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": " Channel 1 Lightning. NL Channel 1 Frost. NL Channel 1 Dark ."
+  },
+  "NotSoDefect:Reboot": {
+    "NAME": "Reboot",
+    "DESCRIPTION": " Exhaust all Status cards. NL Shuffle and draw !M! cards. NL Exhaust .",
+    "UPGRADE_DESCRIPTION": " Exhaust all Status cards. NL Shuffle and draw !M! cards. NL Clear debuffs. NL Exhaust ."
+  },
+  "NotSoDefect:ThunderStrike": {
+    "NAME": "Thunder Strike",
+    "DESCRIPTION": "Deal !D! damage, NL Trigger all Lightning 's passive ability once for each damage.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage, NL Trigger all Lightning 's passive ability once for each damage."
+  }
+
+}

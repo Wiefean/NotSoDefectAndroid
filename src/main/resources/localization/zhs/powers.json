@@ -1,0 +1,52 @@
+{
+  "NotSoDefect:StaticDischarge": {
+    "NAME": "静电释放",
+    "DESCRIPTIONS": [
+      "受到攻击时使用所有 #y闪电 充能球的被动能力；若伤害未被格挡， #y生成 #b",
+      " 个 #y闪电 充能球。"
+    ]
+  },
+  "NotSoDefect:Hello": {
+    "NAME": "你好",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，增加 #b",
+      " 张带有 #y虚无 的升级过的普通牌到你的手牌。"
+    ]
+  },
+  "NotSoDefect:NoBlock": {
+    "NAME": "无法格挡",
+    "DESCRIPTIONS": [
+      "不能获得格挡。"
+    ]
+  },
+  "NotSoDefect:MachineLearning": {
+    "NAME": "机器学习",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，额外抽一张牌，并在本场战斗中随机 #y升级 #b",
+      " 张手牌。"
+    ]
+  },
+  "NotSoDefect:SelfRepair": {
+    "NAME": "自我修复",
+    "DESCRIPTIONS": [
+      "回合开始或结束时，随机 #y消耗 #b",
+      " 张手牌中的状态牌或诅咒牌；在回合开始时每 #y消耗 一张抽一张牌。"
+    ]
+  },
+  "NotSoDefect:Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTIONS": [
+      " #y激发 #y闪电 充能球时，抽一张牌，并获得 #b",
+      " 点格挡。"
+    ]
+  },
+  "NotSoDefect:CreativeAI": {
+    "NAME": "创造性AI",
+    "DESCRIPTIONS": [
+      "回合开始时，可 #y消耗 #b",
+      " 张牌，每 #y消耗 一张获得一张耗能减1的能力牌。"
+    ]
+  }
+
+
+}

@@ -1,0 +1,11 @@
+{
+  "modId": "NotSoDefect",
+  "modName": "NotSoDefect",
+  "modVersion": "1.1",
+  "descriptions": {
+    "zhs": ["鸡煲增强包安卓移植版"],
+    "eng": ["Android version."]
+  },
+  "authorList": ["wiefean"],
+  "dependencies": []
+}

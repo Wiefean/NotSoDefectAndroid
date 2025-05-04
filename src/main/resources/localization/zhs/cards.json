@@ -1,0 +1,150 @@
+{
+  "NotSoDefect:Dualcast": {
+    "NAME": "双重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球2次。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 激发 你最右侧的充能球2次。"
+  },
+  "NotSoDefect:GoForTheEyes": {
+    "NAME": "眼部攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标敌人的意图是攻击，则给予其 !M! 层 虚弱 并抽一张牌。"
+  },
+  "NotSoDefect:DoubleEnergy": {
+    "NAME": "双倍能量",
+    "DESCRIPTION": "将你的 能量 翻倍。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 将你的 能量 翻倍。 NL 消耗 。"
+  },
+  "NotSoDefect:Redo": {
+    "NAME": "递归",
+    "DESCRIPTION": "激发 你最右侧的充能球，并 生成 一个相同的。 NL 抽一张牌。"
+  },
+  "NotSoDefect:BootSequence": {
+    "NAME": "启动流程",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 固有 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 固有 。 NL 抽一张牌。 NL 消耗 。"
+  },
+  "NotSoDefect:Recycle": {
+    "NAME": "回收",
+    "DESCRIPTION": "消耗 一张牌。 NL 获得与其耗能相等的 [B] 。",
+    "UPGRADE_DESCRIPTION": "保留 。 NL 消耗 一张牌。 NL 获得与其耗能相等的 [B] 。"
+  },
+  "NotSoDefect:Fusion": {
+    "NAME": "聚变",
+    "DESCRIPTION": "生成 !M! 个 等离子 充能球。 NL 抽2张牌。",
+    "UPGRADE_DESCRIPTION": "生成 !M! 个 等离子 充能球。 NL 抽一张牌。"
+  },
+  "NotSoDefect:GeneticAlgorithm": {
+    "NAME": "遗传算法",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 每打出一次，这张牌在本局中的格挡值增加 !M! 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL 获得 !B! 点 格挡 。 NL 每打出一次，这张牌在本局中的格挡值增加 !M! 。 NL 消耗 。"
+  },
+  "NotSoDefect:Amplify": {
+    "NAME": "增幅",
+    "DESCRIPTION": " 保留 。 NL 在这个回合，你的下一张 能力牌 会打出两次。"
+  },
+  "NotSoDefect:StaticDischarge": {
+    "NAME": "静电释放",
+    "DESCRIPTION": "受到攻击时使用所有 闪电 充能球的被动能力；若伤害未被格挡，则 生成 !M! 个 闪电 充能球。"
+  },
+  "NotSoDefect:EchoForm": {
+    "NAME": "回响形态",
+    "DESCRIPTION": "你每回合打出的第一张牌会打出两次。 NL 虚无 。",
+    "UPGRADE_DESCRIPTION": "你每回合打出的第一张牌会打出两次。 NL 保留 。"
+  },
+  "NotSoDefect:CoreSurge": {
+    "NAME": "核心电涌",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 人工制品 。 NL 清除负面效果。 NL 消耗 。"
+  },
+  "NotSoDefect:Reprogram": {
+    "NAME": "重编程",
+    "DESCRIPTION": "将 集中 转换为等量的正值 力量 和 敏捷 ， NL 否则获得 !M! 点 集中 。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "将 集中 转换为等量的正值 力量 和 敏捷 ， NL 否则获得 !M! 点 集中 。 NL 保留 。"
+  },
+  "NotSoDefect:Melter": {
+    "NAME": "融化",
+    "DESCRIPTION": "敌人失去 人工制品 且不能获得格挡。 NL 造成 !D! 点伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "使敌人不能获得格挡。 NL 造成 !D! 点伤害。 NL 消耗 。"
+  },
+  "NotSoDefect:HelloWorld": {
+    "NAME": "你好，世界",
+    "DESCRIPTION": "回合开始时，增加一张升级过的普通牌到你的手牌，那张牌获得 虚无 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 回合开始时，增加一张升级过的普通牌到你的手牌，那张牌获得 虚无 。"
+  },
+   "NotSoDefect:Scrape": {
+    "NAME": "刮削",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌，丢弃其中耗能不为0的非攻击牌，它们在打出前耗能变为0。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌，丢弃其中耗能不为0的非攻击牌，它们在打出前耗能变为0。"
+  },
+   "NotSoDefect:ForceField": {
+    "NAME": "力场",
+    "DESCRIPTION": "获得1层残影。 NL 获得 !B! 点格挡。 NL 你在本场战斗中每打出一张能力牌，耗能减少1。",
+    "UPGRADE_DESCRIPTION": "获得1层残影。 NL 获得 !B! 点格挡。 NL 你在本场战斗中每打出一张能力牌，耗能减少1。"
+  },
+   "NotSoDefect:Tempest": {
+    "NAME": "暴风雨",
+    "DESCRIPTION": " 生成 2X个 闪电 充能球。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 生成 2X个 闪电 充能球。"
+  },
+   "NotSoDefect:RipAndTear": {
+    "NAME": "狂乱撕扯",
+    "DESCRIPTION": "随机造成 !D! 点伤害 !M! 次。 NL 能被多次 升级 。",
+    "UPGRADE_DESCRIPTION": "随机造成 !D! 点伤害 !M! 次。 NL 能被多次 升级 。"
+  },
+  "NotSoDefect:LockOn": {
+    "NAME": "跟踪锁定",
+    "DESCRIPTION": " 保留 。 NL  造成 !D! 点伤害。 NL  给予 !M! 层 跟踪锁定 。",
+    "UPGRADE_DESCRIPTION": " 保留 。 NL  造成 !D! 点伤害。 NL  给予 !M! 层 跟踪锁定 。"
+  },
+  "NotSoDefect:AutoShields": {
+    "NAME": "自动护盾",
+    "DESCRIPTION": " 虚无 。 NL  抽到这张牌时获得11点格挡。",
+    "UPGRADE_DESCRIPTION": " 虚无 。 NL  抽到这张牌时获得11点格挡。 NL 抽一张牌 。"
+  },
+  "NotSoDefect:MachineLearning": {
+    "NAME": "机器学习",
+    "DESCRIPTION": "回合开始时，额外抽一张牌，并在本场战斗中随机 升级 !M! 张手牌。",
+    "UPGRADE_DESCRIPTION": "回合开始时，额外抽一张牌，并在本场战斗中随机 升级 !M! 张手牌。"
+  },
+  "NotSoDefect:SelfRepair": {
+    "NAME": "自我修复",
+    "DESCRIPTION": "获得 !M! 层 再生 。 NL 回合开始或结束时，随机 消耗 1 张手牌中的状态或诅咒牌；回合开始时每 消耗 一张抽一张牌。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 再生 。 NL 回合开始或结束时，随机 消耗 1 张手牌中的状态或诅咒牌；回合开始时每 消耗 一张抽一张牌。"
+  },
+  "NotSoDefect:FTL": {
+    "NAME": "超越光速",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌，它们在打出前耗能变为0。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌，它们在打出前耗能变为0。 NL 消耗 。"
+  },
+  "NotSoDefect:Storm": {
+    "NAME": "雷暴",
+    "DESCRIPTION": " 激发 闪电 充能球时，抽一张牌，并获得 !M! 点格挡。",
+    "UPGRADE_DESCRIPTION": " 激发 闪电 充能球时，抽一张牌，并获得 !M! 点格挡。"
+  },
+  "NotSoDefect:CreativeAI": {
+    "NAME": "创造性AI",
+    "DESCRIPTION": "回合开始时，可 消耗 !M! 张牌，每 消耗 一张获得一张耗能减1的能力牌。",
+    "UPGRADE_DESCRIPTION": "回合开始时，可 消耗 !M! 张牌，每 消耗 一张获得一张耗能减1的能力牌。"
+  },
+  "NotSoDefect:MultiCast": {
+    "NAME": "多重释放",
+    "DESCRIPTION": "激发 你最右侧的充能球X次。 NL 获得 X-2 [B] 。",
+    "UPGRADE_DESCRIPTION": "激发 你最右侧的充能球X次。 NL 获得 X-1 [B] 。"
+  },
+  "NotSoDefect:Rainbow": {
+    "NAME": "彩虹",
+    "DESCRIPTION": " 生成 闪电 、 冰霜 、 黑暗 充能球各一个。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 生成 闪电 、 冰霜 、 黑暗 充能球各一个。"
+  },
+  "NotSoDefect:Reboot": {
+    "NAME": "重启",
+    "DESCRIPTION": "消耗 所有状态牌。 NL 洗牌并抽 !M! 张牌。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": " 消耗 所有状态牌。 NL 洗牌并抽 !M! 张牌。 NL 清除负面效果。 NL 消耗 。"
+  },
+  "NotSoDefect:ThunderStrike": {
+    "NAME": "雷霆打击",
+    "DESCRIPTION": "造成 !D! 点伤害， NL 每造成一点伤害，使用所有 闪电 充能球的被动效果一次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害， NL 每造成一点伤害，使用所有 闪电 充能球的被动效果一次。"
+  }
+
+
+}
