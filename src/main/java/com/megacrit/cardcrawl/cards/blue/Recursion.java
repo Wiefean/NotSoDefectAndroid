@@ -1,5 +1,6 @@
 package com.megacrit.cardcrawl.cards.blue;
 
+import com.megacrit.cardcrawl.actions.common.DrawCardAction;
 import com.megacrit.cardcrawl.actions.defect.RedoAction;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.cards.AbstractCard.CardColor;
@@ -21,6 +22,7 @@ public class Recursion extends AbstractCard {
 
     public void use(AbstractPlayer p, AbstractMonster m) {
         this.addToBot(new RedoAction());
+        this.addToBot(new DrawCardAction(1));
     }
 
     public void upgrade() {
